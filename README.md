@@ -1,3 +1,7 @@
+<!-- mirror-notice -->
+> **Note:** This repository is a read-only mirror, automatically synced from [Blue-Matter/iccatSALB](https://github.com/Blue-Matter/iccatSALB). Please do not edit files here directly — changes will be overwritten on the next sync.
+
+
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
