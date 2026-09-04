@@ -1,5 +1,11 @@
 # iccatSALB
 
+> **Note:** This repository is a read-only mirror, automatically synced
+> from
+> [Blue-Matter/iccatSALB](https://github.com/Blue-Matter/iccatSALB).
+> Please do not edit files here directly — changes will be overwritten
+> on the next sync.
+
 `iccatSALB` is an R package supporting the Management Strategy
 Evaluation (MSE) for South Atlantic albacore tuna, developed for the
 International Commission for the Conservation of Atlantic Tunas (ICCAT).
